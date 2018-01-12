@@ -1,4 +1,5 @@
 # Stratusolve Exercise
+# Hano Prinsloo's Attempt
 This exercise evaluates a basic understanding of PHP, jQuery, HTML &amp; CSS. It makes use of the bootstrap UI framework along with the jquery javascript library. All server actions are done in PHP.
 
 ### Assignment
